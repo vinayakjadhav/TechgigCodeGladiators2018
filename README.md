@@ -1,6 +1,6 @@
-# TechgigCodeGladiators2021
+# TechgigCodeGladiators2018
 
-Techgig Code Gladiators 2021 programs
+Techgig Code Gladiators 2018 programs
 
 command node index.js < input.txt
 
